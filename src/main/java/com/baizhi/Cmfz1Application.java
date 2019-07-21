@@ -18,6 +18,7 @@ public class Cmfz1Application {
         SpringApplication.run(Cmfz1Application.class, args);
     }
 
+
     @Bean
     public HttpMessageConverters fastJsonHttpMessageConverters() {
         // 1. 需要定义一个converter转换消息的对象
@@ -30,9 +31,5 @@ public class Cmfz1Application {
         HttpMessageConverter<?> converter = fasHttpMessageConverter;
         return new HttpMessageConverters(converter);
     }
-
-
-
-
 
 }

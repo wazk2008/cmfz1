@@ -27,11 +27,8 @@
     <script src="user/china.js"></script>
     <%--<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts.min.js"></script>--%>
 
-
-
 </head>
 <body>
-
     <%--顶部导航条--%>
     <nav class="navbar navbar-inverse">
         <div class="container-fluid">

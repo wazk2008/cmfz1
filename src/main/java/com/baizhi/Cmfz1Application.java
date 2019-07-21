@@ -23,6 +23,10 @@ public class Cmfz1Application {
     public HttpMessageConverters fastJsonHttpMessageConverters() {
 
         System.out.println("-------------------------------");
+        System.out.println("-------------------------------");
+        System.out.println("-------------------------------");
+        System.out.println("-------------------------------");
+        System.out.println("-------------------------------");
         System.out.println("+++++++++++++++++++++++++++++++");
         System.out.println("+++++++++++++++++++++++++++++++");
         System.out.println("+++++++++++++++++++++++++++++++");

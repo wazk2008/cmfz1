@@ -23,6 +23,7 @@ public class Cmfz1Application {
     public HttpMessageConverters fastJsonHttpMessageConverters() {
 
         System.out.println("-------------------------------");
+        System.out.println("+++++++++++++++++++++++++++++++");
 
 
         // 1. 需要定义一个converter转换消息的对象
